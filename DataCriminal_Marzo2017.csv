@@ -1,0 +1,62 @@
+FECHA;MEDIO;MODALIDAD DE ROBO;TIPO DE ARMA;EDAD VÍCTIMA;EDAD DELINCUENTE;GÉNERO VÍCTIMA;GÉNERO DELINCUENTE;DISTRITO;MUERTOS;HERIDOS;OCUPACIÓN
+01/03/2017;Perú21;Marcaje;Pistola;56-100;15-21;Hombre;Hombre ;La Victoria;0;1;Cambista
+01/03/2017;Canal N;Asalto;Pistola;15-21;22-34;Mujer;Hombre ;El Agustino;0;0;Cambista
+01/03/2017;Perú21;Marcaje;Pistola;35-55;22-34;Hombre;Varios ;Miraflores;0;0;Cambista
+05/03/2017;Trome;Sicariato;Pistola;22-34;35-55;Hombre;Hombre;Ate;1;0;Obrero
+02/03/2017;América TV;Asalto;Pistola;22-34;15-21;Varios ;Varios ;San Juan de Lurigancho;0;0;Cambista
+03/03/2017;La República;Hurto;Sin arma;22-34;35-55;Hombre;Varios ;Ate;0;0;Fiscal
+03/03/2017;La República;Hurto;Otros;56-100;15-21;Hombre;Varios ;Cercado de Lima;0;0;Vigilante
+03/03/2017;Perú21;Hurto;Otros;15-21;0-14;Mujer;Varios ;Cercado de Lima;0;0;Estudiante
+03/03/2017;Latina;Asalto;Pistola;56-100;15-21;Varios;Hombre;Comas;0;1;Empresario
+04/03/2017;El Popular;Asalto;Pistola;15-21;22-34;Hombre;Hombre ;Callao;0;0;Chofer
+11/03/2017;El Popular;Asalto;Pistola;35-55;22-34;Hombre;Hombre;Callao;0;1;Chofer
+27/03/2017;La República;Raqueteo;Arma Blanca;56-100;35-55;Hombre;Hombre;Ate;1;0;Estudiante
+07/03/2017;Exitosa;Asalto;Pistola;15-21;35-55;Mujer;Hombre ;Carabayllo;1;2;comerciante
+05/03/2017;Ojo;Marcaje;Pistola;15-21;22-34;Mujer;Hombre;La Victoria;0;2;Empresario
+05/03/2017;Ojo;Asalto;Pistola;56-100;15-21;Varios ;Hombre ;Los Olivos;0;0;Empresario
+07/03/2017;Perú21;Raqueteo;Pistola;35-55;22-34;Hombre ;Varios;Carabayllo;1;2;Chofer
+05/03/2017;La República;Asalto;Pistola;56-100;35-55;Varios ;Hombre ;Villa María del Triunfo;0;3;comerciante
+07/03/2017;América TV;Asalto;Pistola;56-100;35-55;Hombre ;Hombre;Carabayllo;1;2;comerciante
+10/03/2017;RPP;Asalto;Pistola;35-55;22-34;Hombre;Varios ;Chorrillos;1;0;Cambista
+21/03/2017;El Popular;Asalto;Pistola;15-21;0-14;Hombre;Hombre;Callao;0;0;comerciante
+07/03/2017;Ojo;Hurto;Pistola;15-21;0-14;Varios ;Hombre;La Victoria;0;0;comerciante
+11/03/2017;Perú21;Asalto;Pistola;15-21;35-55;Hombre;Hombre ;Chorrillos;1;0;No especifica
+02/03/2017;RPP;Asalto;Pistola;22-34;35-55;Hombre;Hombre ;Comas;1;1;No especifica
+08/03/2017;Trome;Asalto;Arma Blanca;15-21;35-55;Hombre;Varios ;Villa El Salvador;0;0;Chofer
+09/03/2017;Latina;Asalto;Pistola;0-14;15-21;Mujer;Hombre;Pueblo Libre;0;0;Chofer
+09/03/2017;Trome;Sicariato;Pistola;22-34;35-55;Hombre;Hombres ;San Juan de Miraflores;0;1;Abogado
+09/03/2017;El Popular;Raqueteo;Pistola;56-100;35-55;Hombre;Hombres ;San Juan de Lurigancho;0;0;Cambista
+04/03/2017;Ojo;Asalto;Pistola;22-34;15-21;Mujer;Hombre;La Victoria;1;0;comerciante
+10/03/2017;La República;Hurto;Pistola;56-100;15-21;Hombre;Hombre;Miraflores;0;0;Empresario
+10/03/2017;La República;Hurto;Sin arma;15-21;15-21;Varios ;Varios ;San Juan de Lurigancho;0;0;empresario
+04/03/2017;El Popular;Extorsión;Pistola;56-100;22-34;Varios ;Hombre ;Callao;0;0;Cambista
+13/03/2017;La República;Asalto;Pistola;56-100;0-14;Mujer;Hombre;Los Olivos;1;0;Empresario
+12/03/2017;América TV;Asalto;Arma blanca;22-34;35-55;Varios;Varios ;Ventanilla;0;0;comerciante
+12/03/2017;América TV;Asalto;Pistola;56-100;0-14;Varios ;Varios ;Villa María del Triunfo;0;0;comerciante
+09/03/2017;Latina;Asalto;Pistola;22-34;0-14;Hombre;Varios;San Miguel;0;0;Taxista
+06/03/2017;RPP;Sicariato;Pistola;22-34;22-34;Hombre;Varios ;Miraflores;1;0;Taxista
+14/03/2017;Ojo;Asalto;Pistola;22-34;22-34;Varios ;Varios ;Cercado de Lima;0;0;comerciante
+14/03/2017;La República;Sicariato;Pistola;35-55;22-34;Hombre;Varios ;Los Olivos;0;1;Ingeniero
+15/03/2017;Perú21;Asalto;Pistola;35-55;35-55;Mujer;Hombre;La Molina;0;0;empresario
+15/03/2017;Canal N;Asalto;Pistola;22-34;0-14;Mujer;Hombre ;Puente Piedra;0;0;comerciante
+07/03/2017;El Popular;Raqueteo;Pistola;35-55;15-21;Mujer;Hombre ;Callao;0;0;empresario
+21/03/2017;Latina;Asalto;Pistola;22-34;35-55;Varios;Hombre ;Cercado de Lima;0;0;comerciante
+22/03/2017;América TV;Asalto;Pistola;15-21;35-55;Hombre;Hombre ;Miraflores;1;0;Policía
+22/03/2017;Canal N;Raqueteo;Pistola;35-55;22-34;Hombre;Hombre ;Miraflores;1;0;Cambista
+23/03/2017;Latina;Raqueteo;Pistola;15-21;35-55;Hombre;Varios ;Miraflores;1;0;Cambista
+23/03/2017;Canal N;Hurto;Sin arma;35-55;22-34;Mujer;Hombre ;Cercado de Lima;0;0;Periodista
+23/03/2017;Ojo;Hurto;Pistola;35-55;22-34;Hombre;Hombre ;Los Olivos;0;0;Vigilante
+21/03/2017;La República;Sicariato;Pistola;22-34;15-21;Hombre;Varios ;Puente Piedra;1;0;Obrero
+31/03/2017;Trome;Sicariato;Pistola;22-34;35-55;Hombre;Hombre;Rímac;1;0;comerciante
+24/03/2017;La República;Marcaje;Pistola;35-55;35-55;Hombre;Varios ;Villa María del Triunfo;0;0;Empresario
+25/03/2017;Panamericana TV;Asalto;Pistola;22-34;22-34;Varios ;Hombre ;Breña;0;0;Empresario
+26/03/2017;Perú21;Asalto;Pistola;35-55;35-55;Hombre;Hombre ;San Martín de Porres;0;0;comerciante
+24/03/2017;La República;Sicariato;Pistola;22-34;22-34;Mujer;Varios ;San Juan de Lurigancho;1;3;No especifica
+27/03/2017;Exitosa;Asalto;Pistola - Comba;15-21;22-34;Mujer;Varios ;Miraflores;0;0;Obrero
+27/03/2017;Latina;Asalto;Arma Blanca;35-55;15-21;Hombre;Varios ;San Juan de Miraflores;1;0;Empresario
+27/03/2017;RPP;Asalto;Pistola;15-21;35-55;Hombre;Hombre ;San Martín de Porres;0;0;comerciante
+31/03/2017;Perú21;Raqueteo;Sin arma;15-21;22-34;Varios ;Hombre;Callao;0;0;Empresario
+31/03/2017;Panamericana TV;Hurto;Pistola;15-21;35-55;Varios ;Varios ;Jesús María;0;0;No especifica
+05/03/2017;La República;Asalto;Pistola;35-55;0-14;Hombre ;Varios ;Surco;1;1;Artista
+31/03/2017;Panamericana TV;Hurto;Pistola;22-34;35-55;Hombre;Hombre ;San Juan de Lurigancho;0;0;Estudiante
+07/03/2017;Panamericana TV;Asalto;Pistola;15-21;15-21;Hombre;Hombre ;San Miguel;0;0;No especifica
